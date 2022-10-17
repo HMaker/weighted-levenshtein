@@ -1,8 +1,12 @@
 weighted-levenshtein
 ====================
 This fork fixes the building of `weighted-levenshtein` for all Python versions.
+
+
 .. code:: bash
+
     pip install "git+https://github.com/HMaker/weighted-levenshtein.git#egg=weighted-levenshtein"
+
 
 Use Cases
 ---------
